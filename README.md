@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aykhanquliyev
 - 👀 I’m interested in coding and shit
-- 🌱 I’m currently css
+- 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on a new project
 - 📫 Reach me through WhatsApp: +994 55 309-90-09
 

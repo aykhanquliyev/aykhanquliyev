@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aykhanquliyev
-- 👀 I’m <bold>interested</bold> in coding and shit
+- 👀 I’m interested in coding and shit
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on a new project
 - 📫 Reach me through WhatsApp: +994 55 309-90-09

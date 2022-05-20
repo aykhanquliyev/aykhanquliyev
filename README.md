@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aykhanquliyev
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning node.js,python,c/c++
+- 🌱 I’m currently learning JavaScript/react/node.js
 - 💞️ I’m looking to collaborate on a new project
 - 📫 Reach me through WhatsApp: +994 55 309-90-09
 
